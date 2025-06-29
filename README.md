@@ -10,7 +10,7 @@ Analytical Process in R:
 - Evaluated multicollinearity among variables using variance inflation factors (VIF), and removed highly correlated predictors to improve model stability.
 - Split the cleaned dataset into training, validation, and testing to support model development, tuning, and unbiased performance evaluation.
 - Built and evaluated six predictive models — Linear Regression, Ridge, Lasso, Elastic Net, Decision Tree, Random Forest, and Support Vector Machine (SVM) — using cross-validation and hyperparameter tuning.
-- Compared models using performance metrics such as R², Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE), training and test data. 
+- Compared models using performance metrics such as R², Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE).
 - The model with the highest performance was selected after comparative evaluation, and its predictive accuracy was assessed on the validation dataset.
 
 
